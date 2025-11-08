@@ -1,0 +1,62 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies
+node_modules/
+jspm_packages/
+web_modules/
+
+# Build and Compilation Output
+/dist
+/build
+/out
+/output
+/coverage
+lib-cov/
+.cache/
+.parcel-cache/
+.next/           # Next.js build output
+.nuxt/          # Nuxt.js build/generate output
+.vite/          # Vite-specific cache
+/public/dist    # Common pattern for built assets
+
+# Test and Coverage
+coverage/
+.nyc_output/
+*.lcov
+.grunt/             # Grunt intermediate storage
+.tmp/
+
+# Optional Caches
+.npm/
+.eslintcache
+.stylelintcache
+.node_repl_history
+
+# Package files
+*.tgz               # Output of 'npm pack'
+.yarn-integrity
+
+# Environment Variables and Secrets (CRITICAL)
+.env                # Environment variables
+.env.local
+.env.*.local
+
+Thumbs.db           # Windows system files
+
+# Editor Configuration
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*~                  # Vim and other editors' temporary files
