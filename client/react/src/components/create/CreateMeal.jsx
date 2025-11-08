@@ -1,4 +1,3 @@
-//components/create/CreateMeal.jsx
 
 import './popUp.css'
 

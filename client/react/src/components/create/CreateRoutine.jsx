@@ -1,4 +1,3 @@
-//components/create/CreateRoutine.jsx
 
 import './popUp.css'
 

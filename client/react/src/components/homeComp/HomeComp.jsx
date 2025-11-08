@@ -1,4 +1,3 @@
-//components/homeComp/HomeComp.jsx
 
 import React from "react";
 import "./homeComp.css";

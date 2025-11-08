@@ -1,4 +1,3 @@
-//controllers/user.js
 
 import User from "../models/User.js";
 

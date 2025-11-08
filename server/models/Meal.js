@@ -1,4 +1,3 @@
-//models/Meal.js
 
 import mongoose from "mongoose";
 

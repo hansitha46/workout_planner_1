@@ -1,4 +1,3 @@
-//models/Routine.js
 
 import mongoose from "mongoose";
 

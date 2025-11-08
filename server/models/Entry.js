@@ -1,4 +1,3 @@
-//models/Entry.js
 
 import mongoose from "mongoose";
 

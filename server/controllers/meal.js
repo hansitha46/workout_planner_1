@@ -1,4 +1,3 @@
-//controllers/meal.js
 
 import Meal from "../models/Meal.js"
 import User from "../models/User.js"

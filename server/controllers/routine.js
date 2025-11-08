@@ -1,4 +1,3 @@
-//controllers/routine.js
 
 import Routine from "../models/Routine.js"
 import User from "../models/User.js"

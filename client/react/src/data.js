@@ -1,4 +1,3 @@
-//data.js
 
 export const WorkoutType = [
     "Cardio", "HIIT", "Strength Training", "Yoga", "Zumba"

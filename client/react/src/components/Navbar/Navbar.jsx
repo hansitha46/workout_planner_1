@@ -1,4 +1,3 @@
-//components/Navbar/Navbar.jsx
 
 import './navbar.css'
 import { useState, useContext } from 'react';
